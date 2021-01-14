@@ -1,0 +1,43 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="course.examples.maplocation" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="21"
+6-->C:\Users\hspow\projects\unb\cs2063-master\Winter2021\examples\Lecture2\MapLocation\app\src\main\AndroidManifest.xml
+7        android:targetSdkVersion="29" />
+7-->C:\Users\hspow\projects\unb\cs2063-master\Winter2021\examples\Lecture2\MapLocation\app\src\main\AndroidManifest.xml
+8
+9    <application
+9-->C:\Users\hspow\projects\unb\cs2063-master\Winter2021\examples\Lecture2\MapLocation\app\src\main\AndroidManifest.xml:5:5-19:19
+10        android:allowBackup="false"
+10-->C:\Users\hspow\projects\unb\cs2063-master\Winter2021\examples\Lecture2\MapLocation\app\src\main\AndroidManifest.xml:6:9-36
+11        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+11-->[androidx.core:core:1.2.0] C:\Users\hspow\.gradle\caches\transforms-2\files-2.1\4f3d7d743df13c1af889a0942a35670d\core-1.2.0\AndroidManifest.xml:24:18-86
+12        android:debuggable="true"
+13        android:icon="@mipmap/ic_launcher"
+13-->C:\Users\hspow\projects\unb\cs2063-master\Winter2021\examples\Lecture2\MapLocation\app\src\main\AndroidManifest.xml:7:9-43
+14        android:label="@string/app_name"
+14-->C:\Users\hspow\projects\unb\cs2063-master\Winter2021\examples\Lecture2\MapLocation\app\src\main\AndroidManifest.xml:8:9-41
+15        android:roundIcon="@mipmap/ic_launcher_round"
+15-->C:\Users\hspow\projects\unb\cs2063-master\Winter2021\examples\Lecture2\MapLocation\app\src\main\AndroidManifest.xml:9:9-54
+16        android:testOnly="true"
+17        android:theme="@style/AppTheme" >
+17-->C:\Users\hspow\projects\unb\cs2063-master\Winter2021\examples\Lecture2\MapLocation\app\src\main\AndroidManifest.xml:10:9-40
+18        <activity android:name="course.examples.maplocation.MapLocation" >
+18-->C:\Users\hspow\projects\unb\cs2063-master\Winter2021\examples\Lecture2\MapLocation\app\src\main\AndroidManifest.xml:12:9-18:20
+18-->C:\Users\hspow\projects\unb\cs2063-master\Winter2021\examples\Lecture2\MapLocation\app\src\main\AndroidManifest.xml:12:19-46
+19            <intent-filter>
+19-->C:\Users\hspow\projects\unb\cs2063-master\Winter2021\examples\Lecture2\MapLocation\app\src\main\AndroidManifest.xml:13:13-17:29
+20                <action android:name="android.intent.action.MAIN" />
+20-->C:\Users\hspow\projects\unb\cs2063-master\Winter2021\examples\Lecture2\MapLocation\app\src\main\AndroidManifest.xml:14:17-69
+20-->C:\Users\hspow\projects\unb\cs2063-master\Winter2021\examples\Lecture2\MapLocation\app\src\main\AndroidManifest.xml:14:25-66
+21
+22                <category android:name="android.intent.category.LAUNCHER" />
+22-->C:\Users\hspow\projects\unb\cs2063-master\Winter2021\examples\Lecture2\MapLocation\app\src\main\AndroidManifest.xml:16:17-77
+22-->C:\Users\hspow\projects\unb\cs2063-master\Winter2021\examples\Lecture2\MapLocation\app\src\main\AndroidManifest.xml:16:27-74
+23            </intent-filter>
+24        </activity>
+25    </application>
+26
+27</manifest>

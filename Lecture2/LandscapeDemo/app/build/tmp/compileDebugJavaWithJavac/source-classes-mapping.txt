@@ -1,0 +1,5 @@
+mobiledev/unb/ca/landscapedemo/BuildConfig.java
+ mobiledev.unb.ca.landscapedemo.BuildConfig
+mobiledev/unb/ca/landscapedemo/MainActivity.java
+ mobiledev.unb.ca.landscapedemo.MainActivity
+ mobiledev.unb.ca.landscapedemo.MainActivity$1

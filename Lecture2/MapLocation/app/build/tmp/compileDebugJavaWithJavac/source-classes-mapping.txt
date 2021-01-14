@@ -1,0 +1,5 @@
+course/examples/maplocation/MapLocation.java
+ course.examples.maplocation.MapLocation
+ course.examples.maplocation.MapLocation$1
+course/examples/maplocation/BuildConfig.java
+ course.examples.maplocation.BuildConfig

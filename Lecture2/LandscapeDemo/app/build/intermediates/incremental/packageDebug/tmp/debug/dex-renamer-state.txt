@@ -1,0 +1,4 @@
+#Sun Jan 10 16:53:22 AST 2021
+base.0=C\:\\Users\\hspow\\projects\\unb\\cs2063-master\\Winter2021\\examples\\Lecture2\\LandscapeDemo\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
