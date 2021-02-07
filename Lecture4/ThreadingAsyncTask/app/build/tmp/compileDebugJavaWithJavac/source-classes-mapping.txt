@@ -1,0 +1,8 @@
+mobiledev/unb/ca/threadingasynctask/AsyncTaskFragment.java
+ mobiledev.unb.ca.threadingasynctask.AsyncTaskFragment
+ mobiledev.unb.ca.threadingasynctask.AsyncTaskFragment$LoadIconTask
+ mobiledev.unb.ca.threadingasynctask.AsyncTaskFragment$OnFragmentInteractionListener
+mobiledev/unb/ca/threadingasynctask/BuildConfig.java
+ mobiledev.unb.ca.threadingasynctask.BuildConfig
+mobiledev/unb/ca/threadingasynctask/AsyncTaskActivity.java
+ mobiledev.unb.ca.threadingasynctask.AsyncTaskActivity

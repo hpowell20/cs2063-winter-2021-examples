@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\hspow\\projects\\unb\\cs2063-master\\Winter2021\\examples\\Lecture4\\ThreadingHandlerMessages\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\hspow\\projects\\unb\\cs2063-master\\Winter2021\\examples\\Lecture4\\ThreadingHandlerMessages\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "476",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "782"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\hspow\\projects\\unb\\cs2063-master\\Winter2021\\examples\\Lecture4\\ThreadingHandlerMessages\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "157,57,105",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "198,99,151"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,101,148",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "96,143,194"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\hspow\\projects\\unb\\cs2063-master\\Winter2021\\examples\\Lecture4\\ThreadingHandlerMessages\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,5,3,4",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "57,238,120,176",
+                        "endColumns": "61,51,54,60",
+                        "endOffsets": "114,285,170,232"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "246,308,360,415",
+                        "endColumns": "61,51,54,60",
+                        "endOffsets": "303,355,410,471"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\hspow\\projects\\unb\\cs2063-master\\Winter2021\\examples\\Lecture4\\ThreadingHandlerMessages\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "130",
+                        "endColumns": "46",
+                        "endOffsets": "172"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "199",
+                        "endColumns": "46",
+                        "endOffsets": "241"
+                    }
+                }
+            ]
+        }
+    ]
+}
