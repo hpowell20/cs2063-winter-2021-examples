@@ -1,0 +1,4 @@
+mobiledev/unb/ca/locationdemo/BuildConfig.java
+ mobiledev.unb.ca.locationdemo.BuildConfig
+mobiledev/unb/ca/locationdemo/MainActivity.java
+ mobiledev.unb.ca.locationdemo.MainActivity

@@ -1,0 +1,5 @@
+mobiledev/unb/ca/mapstest/MapsActivity.java
+ mobiledev.unb.ca.mapstest.MapsActivity
+ mobiledev.unb.ca.mapstest.MapsActivity$1
+mobiledev/unb/ca/mapstest/BuildConfig.java
+ mobiledev.unb.ca.mapstest.BuildConfig
