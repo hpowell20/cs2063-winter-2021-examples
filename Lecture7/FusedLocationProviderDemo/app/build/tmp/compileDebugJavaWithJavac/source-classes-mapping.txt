@@ -1,7 +1,0 @@
-mobiledev/unb/ca/fusedlocationproviderdemo/BuildConfig.java
- mobiledev.unb.ca.fusedlocationproviderdemo.BuildConfig
-mobiledev/unb/ca/fusedlocationproviderdemo/MainActivity.java
- mobiledev.unb.ca.fusedlocationproviderdemo.MainActivity
- mobiledev.unb.ca.fusedlocationproviderdemo.MainActivity$1
- mobiledev.unb.ca.fusedlocationproviderdemo.MainActivity$2
- mobiledev.unb.ca.fusedlocationproviderdemo.MainActivity$3

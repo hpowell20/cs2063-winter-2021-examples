@@ -1,6 +1,0 @@
-mobiledev/unb/ca/threadingrunonuithread/BuildConfig.java
- mobiledev.unb.ca.threadingrunonuithread.BuildConfig
-mobiledev/unb/ca/threadingrunonuithread/SimpleThreadingExample.java
- mobiledev.unb.ca.threadingrunonuithread.SimpleThreadingExample
- mobiledev.unb.ca.threadingrunonuithread.SimpleThreadingExample$1
- mobiledev.unb.ca.threadingrunonuithread.SimpleThreadingExample$1$1

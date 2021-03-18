@@ -1,5 +1,0 @@
-course/examples/ui/button/BuildConfig.java
- course.examples.ui.button.BuildConfig
-course/examples/ui/button/ButtonActivity.java
- course.examples.ui.button.ButtonActivity
- course.examples.ui.button.ButtonActivity$1

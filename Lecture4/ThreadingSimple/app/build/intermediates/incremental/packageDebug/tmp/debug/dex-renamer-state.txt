@@ -1,4 +1,0 @@
-#Sun Jan 17 16:38:16 AST 2021
-base.0=C\:\\Users\\hspow\\projects\\unb\\cs2063-master\\Winter2021\\examples\\Lecture4\\ThreadingSimple\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex

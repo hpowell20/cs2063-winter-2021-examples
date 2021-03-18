@@ -1,5 +1,0 @@
-mobiledev/unb/ca/threadingsimple/BuildConfig.java
- mobiledev.unb.ca.threadingsimple.BuildConfig
-mobiledev/unb/ca/threadingsimple/SimpleThreadingExample.java
- mobiledev.unb.ca.threadingsimple.SimpleThreadingExample
- mobiledev.unb.ca.threadingsimple.SimpleThreadingExample$1

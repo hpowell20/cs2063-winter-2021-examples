@@ -1,6 +1,0 @@
-mobiledev/unb/ca/threadingviewpost/SimpleThreadingViewPostActivity.java
- mobiledev.unb.ca.threadingviewpost.SimpleThreadingViewPostActivity
- mobiledev.unb.ca.threadingviewpost.SimpleThreadingViewPostActivity$1
- mobiledev.unb.ca.threadingviewpost.SimpleThreadingViewPostActivity$1$1
-mobiledev/unb/ca/threadingviewpost/BuildConfig.java
- mobiledev.unb.ca.threadingviewpost.BuildConfig

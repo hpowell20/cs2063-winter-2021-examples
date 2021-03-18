@@ -1,8 +1,0 @@
-mobiledev/unb/ca/networkingurl/RetainedFragment.java
- mobiledev.unb.ca.networkingurl.RetainedFragment
- mobiledev.unb.ca.networkingurl.RetainedFragment$HttpGetTask
- mobiledev.unb.ca.networkingurl.RetainedFragment$OnFragmentInteractionListener
-mobiledev/unb/ca/networkingurl/NetworkingURLActivity.java
- mobiledev.unb.ca.networkingurl.NetworkingURLActivity
-mobiledev/unb/ca/networkingurl/BuildConfig.java
- mobiledev.unb.ca.networkingurl.BuildConfig

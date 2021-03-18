@@ -1,7 +1,0 @@
-mobiledev/unb/ca/explicitintentdemo/ActivityTwo.java
- mobiledev.unb.ca.explicitintentdemo.ActivityTwo
-mobiledev/unb/ca/explicitintentdemo/MainActivity.java
- mobiledev.unb.ca.explicitintentdemo.MainActivity
- mobiledev.unb.ca.explicitintentdemo.MainActivity$1
-mobiledev/unb/ca/explicitintentdemo/BuildConfig.java
- mobiledev.unb.ca.explicitintentdemo.BuildConfig
